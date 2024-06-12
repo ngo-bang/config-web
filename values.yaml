@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ngocongbang/web
   pullPolicy: IfNotPresent
-  tag: "v4"
+  tag: "1.0.1"
 
 service:
   type: NodePort
